@@ -1,0 +1,29 @@
+
+version: 1
+task_description: 'Teach the model facts about self-esteem from the book Helping Adolescents and Adults to Build Self-Esteem'
+created_by: autobees
+domain: science
+seed_examples:
+  - question: What feelings does self-esteem encompass?
+    answer: |
+      Self-esteem encompasses feelings of actual and perceived competency and self-efficacy and, most importantly, feelings of being lovable and being approved of.  
+  - question: What are the attributes and actions of someone with healthy self-esteem?
+    answer: |
+      This includes self-approval and compassion towards oneself, as well as a sense of approval and warmth from others. Someone with healthy self-esteem is more likely to be self-motivated and self-reliant yet still understand the importance of mutuality and so be more likely to sustain respectful and fulfilling relationships with others. A person who has developed healthy self-esteem will be more able to make informed decisions. He will usually be more willing to try new ways of doing things, learning from mistakes and building confidence for future challenges. He will be able to recognize and develop his specific strengths and cope with changes successfully.
+  - question: What did Maslow say about self-esteem?
+    answer: |
+      Self-esteem is undoubtedly a valuable psychological resource. Abraham Maslow, one of the founders of humanistic psychology, argued that not only is it necessary for wellbeing, but that the need for esteem is genetically a part of us. Indeed, scientists have long known that genetics do play a part in the development and utilization of our psychological resources.
+  - question: What does R.B. Burns say about the relationship of self-esteem to self-concept?
+    answer: |
+      Self-esteem has its roots in the development of our self-concept: the overall view that we have of ourselves. R.B. Burns describes the self-concept as ‘a composite image of what we think we are, what we think we can achieve, what we think others think of us and what we would like to be’ (Burns 1979, page xx). 
+  - question: How does Susan Harter define self-representations?
+    answer: |
+      Developmental psychologist Susan Harter prefers the term ‘self-representations’, which she defines as ‘attributes or characteristics of the self that are consciously acknowledged by the individual through language – that is, how one describes oneself’ (Harter 1999, page 3). In essence, then, our self-concept is the internal ‘word’ and ‘picture’ image that we have of ourselves at any given time. 
+  - question: How does our self-concept play into processing new information and does it affect our behavior?
+    answer: |
+      We generally try to act in a way that fits in with our self-concept. When new information is received to add to our system of beliefs about ourselves we are likely to ‘filter out’ the bits that we think are not relevant to us. If the information fits in with our self-concept we will probably accept it as being true (even if it is not based on any factual evidence). If it is not consistent with how we see ourselves then we might ignore it, misinterpret it or reject it completely. In this way our beliefs affect the way we see the world and this, in turn, informs our behaviour. 
+document:
+  repo: https://github.com/tinghuahsu77/taxonomy/new/main/knowledge/science/medical
+  commit: 
+  patterns:
+    - 
