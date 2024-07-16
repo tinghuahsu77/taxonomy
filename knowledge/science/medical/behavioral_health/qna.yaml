@@ -2,7 +2,7 @@
 version: 1
 task_description: 'Teach the model facts about self-esteem from the book Helping Adolescents and Adults to Build Self-Esteem'
 created_by: autobees
-domain: science
+domain: science/medical/behavioral_health
 seed_examples:
   - question: What feelings does self-esteem encompass?
     answer: |
